@@ -24,3 +24,4 @@ Demo-GameState.java
 8. Access to state's assets' data: progress, done
 9. Pause rendering on external interruption.  In libGdx, even though pause is called, rendering continues
 10. Pass data to states when you run them
+11. Set time limit for states. E.G. you can tell a state to run for 5seconds and after five seconds it is cancelled by the renderer
